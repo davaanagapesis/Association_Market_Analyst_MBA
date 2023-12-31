@@ -386,4 +386,4 @@ Berdasarkan kesimpulan yang telah diuraikan, maka ada beberapa saran yang dapat 
 
 # Streamlit App
 
-[Market Data Analyst MBA ] (https://aappciatonmba-hss6zcx9udfxefxq8tyqdp.streamlit.app/).
+[Market Data Analyst MBA ] (https://aappciationmarketanalystmba-aezacjq7sf2wasrr5q96v7.streamlit.app/)
