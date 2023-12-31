@@ -58,7 +58,7 @@ files.upload()
 !ls market
 ```
 
-# Import library yang di butuhkan
+# Import library 
 
 ```bash
 !pip install apyori
@@ -79,7 +79,7 @@ from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import association_rules, apriori
 ```
 
-# Langkah ketiga Data Discovery
+# Data Discovery
 
 - Disini kita makan menampilkan dataset yang tadi di download
 
@@ -95,7 +95,7 @@ df.head()
 df.sample(10)
 ```
 
--Menampilkan lengkap mengenai data frame
+- Menampilkan lengkap mengenai data frame
 
 ```bash
 df.info()
