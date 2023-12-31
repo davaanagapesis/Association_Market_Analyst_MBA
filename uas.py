@@ -57,7 +57,7 @@ st.text("")
 st.text("")
 try:
     st.title("Association Market Analyst MBA")
-    st.title("M Daffa Alfikri")
+    st.title("Nama : M Daffa Alfikri")
     st.title("NIM : 211351076")
     st.text("Dataset:")
     st.dataframe(data)
