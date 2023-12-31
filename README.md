@@ -7,11 +7,12 @@
 ### Kelas : IF Pagi A
 
 ## Domain Proyek
-Proyek ini bertujuan untuk melakukan analisis pola pembelian pada dataset Groceries guna mendapatkan wawasan yang dapat digunakan untuk meningkatkan penjualan dan efisiensi pengelolaan stok di industri ritel. Dataset ini mencakup informasi tentang transaksi pembelian barang dagangan di toko kelontong, dan analisis akan difokuskan pada pemahaman perilaku konsumen, aspek-aspek produk yang paling populer, serta hubungan antara produk-produk tertentu.
+- Proyek ini bertujuan untuk melakukan analisis pola pembelian pada dataset Groceries guna mendapatkan wawasan yang dapat digunakan untuk meningkatkan penjualan dan efisiensi pengelolaan stok di industri ritel. Dataset ini mencakup informasi tentang transaksi pembelian barang dagangan di toko kelontong, dan analisis akan difokuskan pada pemahaman perilaku konsumen, aspek-aspek produk yang paling populer, serta hubungan antara produk-produk tertentu.
 
 [Dataset yang saya gunakan] (https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba)
 
 ## Business Understanding
+- membantu perusahaan ritel untuk meningkatkan strategi penjualan, meningkatkan kepuasan pelanggan, dan mengelola inventaris dengan lebih efisien.
 
 ### Problem Statements
 - Kurangnya Pemahaman Terhadap Pola Pembelian Konsumen
@@ -19,8 +20,13 @@ Proyek ini bertujuan untuk melakukan analisis pola pembelian pada dataset Grocer
 - Kesulitan Meningkatkan Pengalaman Pelanggan
 - Tidak Ada Sistem Rekomendasi Produk yang Tepat
 ### Goals
-
+- Mengidentifikasi dan memahami pola pembelian konsumen untuk mendukung pengambilan keputusan strategis dalam menyusun strategi penjualan yang lebih efektif.
+- Menentukan penempatan produk yang optimal di toko guna meningkatkan visibilitas, daya tarik, dan memicu pembelian impulsif. 
+-  Mengoptimalkan pengelolaan stok untuk mengurangi kelebihan atau kekurangan persediaan, meningkatkan efisiensi operasional, dan menghindari potensi kerugian finansial
+  
 ### Solution statements
+-  Menerapkan algoritma analisis pola pembelian untuk mengidentifikasi tren dan pola pembelian konsumen, memungkinkan pemahaman mendalam terhadap perilaku belanja.
+-  Penyusunan Strategi Berbasis Produk Paling Diminati
 
 ## Data Understanding
 
