@@ -9,10 +9,15 @@
 ## Domain Proyek
 Proyek ini bertujuan untuk melakukan analisis pola pembelian pada dataset Groceries guna mendapatkan wawasan yang dapat digunakan untuk meningkatkan penjualan dan efisiensi pengelolaan stok di industri ritel. Dataset ini mencakup informasi tentang transaksi pembelian barang dagangan di toko kelontong, dan analisis akan difokuskan pada pemahaman perilaku konsumen, aspek-aspek produk yang paling populer, serta hubungan antara produk-produk tertentu.
 
+[Dataset yang saya gunakan] (https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba)
+
 ## Business Understanding
 
 ### Problem Statements
-
+- Kurangnya Pemahaman Terhadap Pola Pembelian Konsumen
+- Inefisiensi dalam Pengelolaan Stok
+- Kesulitan Meningkatkan Pengalaman Pelanggan
+- Tidak Ada Sistem Rekomendasi Produk yang Tepat
 ### Goals
 
 ### Solution statements
