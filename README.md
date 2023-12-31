@@ -26,7 +26,7 @@
 
 ### Data Discovery And Profiling
 
-# Langkah pertama kita import dataset kaggle
+# Import dataset kaggle
 
 - Disini kita upload file kaggle.json kita
 
@@ -58,7 +58,7 @@ files.upload()
 !ls market
 ```
 
-# Langkah kedua Import library yang di butuhkan
+# Import library yang di butuhkan
 
 ```bash
 !pip install apyori
