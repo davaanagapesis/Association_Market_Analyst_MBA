@@ -27,6 +27,7 @@
 -  Penyusunan Strategi Berbasis Produk Paling Diminati
 
 ## Data Understanding
+-  Data ini menggunakan dataset yang berasal dari kaggle. Dataset ini berisi data transaksi yang terkait dengan bahan makanan.Variabel-variabel utama yang mungkin termasuk adalah Nomer anggota,Tanggal,Data item,Tahun,Bulan,Hari,Hari dalam seminggu. Terdiri dari 38.767 baris dan 7 kolom, yang mencakup berbagai varibel yang berkaitan dengan bahan makanan
 
 ### Variabel-variabel pada Dataset Groceries adalah sebagai berikut:
 - Member_Number : Nomer Anggota
@@ -49,7 +50,7 @@
   
 
 ### Data Discovery And Profiling
-- Disini saya menggunakan Teknik Associaton Apyori/Apriori 
+- Disini saya menggunakan Metode Associaton Apyori/Apriori 
 
 
 # Import dataset kaggle
