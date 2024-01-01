@@ -422,7 +422,7 @@ Berdasarkan kesimpulan yang telah diuraikan, maka ada beberapa saran yang dapat 
 
 [Market Data Analyst MBA ](https://aappciationmarketanalystmba-aezacjq7sf2wasrr5q96v7.streamlit.app/)
 
-![Alt text](Tampilan Streamlit 1.png)
-![Alt text](Tampilan Streamlit 2.png)
-![Alt text](Tampilan Streamlit 3.png)
-![Alt text](Tampilan Streamlit 4.png)
+![Alt text](Streamlit1.png)
+![Alt text](Streamlit2.png)
+![Alt text](Streamlit3.png)
+![Alt text](Streamlit4.png)
