@@ -85,7 +85,7 @@ files.upload()
 ```
 
 # Import library 
-
+- Disini saya akan menginstall Library berikut karna dataset ini membutuhkan library yang saya cantumkan di bawah
 ```bash
 !pip install apyori
 ```
