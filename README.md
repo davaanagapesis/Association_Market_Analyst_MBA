@@ -9,8 +9,6 @@
 ## Domain Proyek
 - Proyek ini bertujuan untuk melakukan analisis pola pembelian pada dataset Groceries guna mendapatkan wawasan yang dapat digunakan untuk meningkatkan penjualan dan efisiensi pengelolaan stok di industri ritel. Dataset ini mencakup informasi tentang transaksi pembelian barang dagangan di toko kelontong, dan analisis akan difokuskan pada pemahaman perilaku konsumen, aspek-aspek produk yang paling populer, serta hubungan antara produk-produk tertentu.
 
-[Dataset yang saya gunakan](https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba)
-
 ## Business Understanding
 - membantu perusahaan ritel untuk meningkatkan strategi penjualan, meningkatkan kepuasan pelanggan, dan mengelola inventaris dengan lebih efisien.
 
@@ -30,17 +28,33 @@
 
 ## Data Understanding
 
-### Variabel-variabel pada Klasifikasi Penyakit Jantung adalah sebagai berikut:
+### Variabel-variabel pada Dataset Groceries adalah sebagai berikut:
+- Member_Number : Nomer Anggota
+- Date : Tanggal
+- ItemDescription : Data Item
+- Year : Tahun
+- Month : Bulan
+- Day : Hari
+- Day_of_week : Hari dalam seminggu
+
+
 
 ## Data Preparation
+- Empty
 
 ### Data Collection
 
+- Untuk data collection ini, saya menggunakan dataset dengan Groceries for market Basket Analyst (MBA). Dataset tersebut didapatkan dari website kaggle.
+[Groceries dataset for market basket analyst(MBA)](https://www.kaggle.com/datasets/rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba)
+  
+
 ### Data Discovery And Profiling
+- Disini saya menggunakan Teknik Associaton Apyori/Apriori 
+
 
 # Import dataset kaggle
 
-- Disini kita upload file kaggle.json kita
+- Disini kita upload file kaggle.json kita yang di ambil dari kaggle (Creat token)
 
 ```bash
 from google.colab import files
@@ -62,7 +76,7 @@ files.upload()
 !kaggle datasets download -d rashikrahmanpritom/groceries-dataset-for-market-basket-analysismba
 ```
 
-- Disini kita extract file yang sudah kita download tadi
+- Disini kita extract file dataset yang sudah kita download tadi
 
 ```bash
 !mkdir market
@@ -93,7 +107,7 @@ from mlxtend.frequent_patterns import association_rules, apriori
 
 # Data Discovery
 
-- Disini kita makan menampilkan dataset yang tadi di download
+- Disini kita akan menampilkan dataset yang tadi di download
 
 ```bash
 df = pd.read_csv("market/Groceries data.csv")
@@ -398,4 +412,4 @@ Berdasarkan kesimpulan yang telah diuraikan, maka ada beberapa saran yang dapat 
 
 # Streamlit App
 
-[Market Data Analyst MBA ] (https://aappciationmarketanalystmba-aezacjq7sf2wasrr5q96v7.streamlit.app/)
+[Market Data Analyst MBA ](https://aappciationmarketanalystmba-aezacjq7sf2wasrr5q96v7.streamlit.app/)
