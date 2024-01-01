@@ -410,6 +410,14 @@ Berdasarkan kesimpulan yang telah diuraikan, maka ada beberapa saran yang dapat 
 - 2.Diadakannya promo dengan pembelian barang yang sering dibeli dengan barang lainnya yang tidak memiliki hubungan agar barang yang tidak memiliki hubungan tersebut juga dapat cepat terjual habis.
 - 3.Pemasangan iklan seperti brosur, spanduk, dan lain-lain dengan menampilkan produk-produk yang sering dibeli oleh konsumen.
 
+## Support
+- Support adalah indikasi seberapa sering kumpulan item muncul pada dataset. Berikut perhitungan nilai support :
+![Alt text](SUPPORT.png)
+
+## Confidence
+- Confidence adalah suatu ukuran yang menunjukkan hubungan antar dua item secara conditional (berdasarkan suatu kondisi tertentu). Berikut perhitungan nilai confidence :
+![Alt text](CONFIDENCE.png)
+
 # Streamlit App
 
 [Market Data Analyst MBA ](https://aappciationmarketanalystmba-aezacjq7sf2wasrr5q96v7.streamlit.app/)
