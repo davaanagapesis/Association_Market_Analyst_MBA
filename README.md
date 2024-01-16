@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning
 
-### Nama : M Daffa Alfikri
+### Nama : M Daffa Julian
 
 ### Nim : 211351076
 
